@@ -1,2 +1,3 @@
 Lorem Ipsum est un générateur de faux textes aléatoires. Vous choisissez le nombre de paragraphes, de mots ou de listes. 
 Vous obtenez alors un texte aléatoire que vouspourrez ensuite utiliser librementdans vos maquettes.
+new commit 24/07/2023
